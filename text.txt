@@ -1,0 +1,10 @@
+ Volume in drive C is Windows
+ Volume Serial Number is E23E-D7E3
+
+ Directory of C:\Users\NOOR BASHA\Desktop\gt
+
+23-09-2019  15:23    <DIR>          .
+23-09-2019  15:23    <DIR>          ..
+23-09-2019  15:23                 0 text.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  366,107,279,360 bytes free
